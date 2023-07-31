@@ -1,0 +1,18 @@
+server:
+  port: 8201
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/cloudtest
+    username: root
+    password: 123456
+  application:
+    name: BookService
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+    sentinel:
+      transport:
+        dashboard: localhost:8858

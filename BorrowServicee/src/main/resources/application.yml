@@ -1,0 +1,24 @@
+server:
+  port: 8301
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/cloudtest
+    username: root
+    password: 123456
+  application:
+    name: BorrowService
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+        ephemeral: false # 视为永久实例
+        cluster-name: shanxi # 集群分区的字段
+    loadbalancer:
+      nacos:
+        enabled: true # 开启nacos的支持
+    sentinel:
+      transport:
+        dashboard: localhost:8858
+      block-page: /error

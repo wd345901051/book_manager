@@ -1,0 +1,128 @@
+2023-07-30 16:32:03,203 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+
+2023-07-30 17:17:49,588 INFO DEFAULT_GROUP@@BookService {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [169.254.42.228:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 17:17:49,599 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@BookService, ips: 169.254.42.228:8201_true,
+
+2023-07-30 17:17:56,764 INFO DEFAULT_GROUP@@BookService {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [169.254.42.228:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 17:17:56,765 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@BookService, ips: 
+
+2023-07-30 17:21:21,494 INFO DEFAULT_GROUP@@UserService {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [169.254.42.228:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 17:21:21,494 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@UserService, ips: 169.254.42.228:8101_true,
+
+2023-07-30 17:21:41,231 INFO DEFAULT_GROUP@@BookService {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [169.254.42.228:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 17:21:41,231 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@BookService, ips: 169.254.42.228:8201_true,
+
+2023-07-30 17:25:06,820 INFO DEFAULT_GROUP@@BorrowService {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [169.254.42.228:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 17:25:06,821 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@BorrowService, ips: 169.254.42.228:8301_true,
+
+2023-07-30 17:25:14,341 INFO DEFAULT_GROUP@@BookService {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [169.254.42.228:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 17:25:14,341 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@BookService, ips: 
+
+2023-07-30 17:25:34,257 INFO DEFAULT_GROUP@@BookService {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [169.254.42.228:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 17:25:34,257 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@BookService, ips: 169.254.42.228:8201_true,
+
+2023-07-30 17:27:13,891 INFO DEFAULT_GROUP@@BorrowService {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [169.254.42.228:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 17:27:13,891 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@BorrowService, ips: 
+
+2023-07-30 17:27:31,888 INFO DEFAULT_GROUP@@BorrowService {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [169.254.42.228:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 17:27:31,889 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@BorrowService, ips: 169.254.42.228:8301_true,
+
+2023-07-30 17:27:53,425 INFO DEFAULT_GROUP@@BorrowService {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [169.254.42.228:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 17:27:53,425 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@BorrowService, ips: 
+
+2023-07-30 17:27:53,441 INFO DEFAULT_GROUP@@UserService {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [169.254.42.228:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 17:27:53,441 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@UserService, ips: 
+
+2023-07-30 17:27:53,457 INFO DEFAULT_GROUP@@BookService {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [169.254.42.228:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 17:27:53,457 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@BookService, ips: 
+
+2023-07-30 17:35:52,210 INFO DEFAULT_GROUP@@BorrowService {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [169.254.42.228:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 17:35:52,211 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@BorrowService, ips: 169.254.42.228:8301_true,
+
+2023-07-30 17:35:56,118 INFO DEFAULT_GROUP@@UserService {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [169.254.42.228:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 17:35:56,118 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@UserService, ips: 169.254.42.228:8101_true,
+
+2023-07-30 17:36:03,891 INFO DEFAULT_GROUP@@BookService {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [169.254.42.228:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 17:36:03,891 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@BookService, ips: 169.254.42.228:8201_true,
+
+2023-07-30 17:51:13,361 INFO DEFAULT_GROUP@@UserService {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [169.254.42.228:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 17:51:13,361 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@UserService, ips: 
+
+2023-07-30 17:51:38,097 INFO DEFAULT_GROUP@@UserService {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [169.254.42.228:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 17:51:38,097 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@UserService, ips: 169.254.42.228:8101_true,
+
+2023-07-30 18:06:08,919 INFO DEFAULT_GROUP@@UserService {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [169.254.42.228:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 18:06:08,920 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@UserService, ips: 
+
+2023-07-30 18:06:08,921 INFO DEFAULT_GROUP@@BorrowService {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [169.254.42.228:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 18:06:08,921 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@BorrowService, ips: 
+
+2023-07-30 18:06:08,923 INFO DEFAULT_GROUP@@BookService {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [169.254.42.228:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 18:06:08,923 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@BookService, ips: 
+
+2023-07-30 18:26:22,069 INFO DEFAULT_GROUP@@BookService {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [169.254.42.228:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 18:26:22,069 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@BookService, ips: 169.254.42.228:8201_true,
+
+2023-07-30 18:36:46,054 INFO DEFAULT_GROUP@@BookService {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [169.254.42.228:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 18:36:46,055 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@BookService, ips: 
+
+2023-07-30 18:37:16,076 INFO DEFAULT_GROUP@@BorrowService {SYNC} {IP-NEW} cluster: shanxi, new ips size: 1, content: [169.254.42.228:8301:unknown:shanxi_1.0_true_false_shanxi]
+
+2023-07-30 18:37:16,076 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@BorrowService, ips: 169.254.42.228:8301_true,
+
+2023-07-30 18:37:16,077 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@BorrowService, ips: 169.254.42.228:8301_true,
+
+2023-07-30 18:37:18,473 INFO serviceName: DEFAULT_GROUP@@BorrowService {OTHER} {IP-ENABLED} pre-valid: 169.254.42.228:8301@shanxi in 1, msg: tcp:ok+
+
+2023-07-30 18:37:20,559 INFO serviceName: DEFAULT_GROUP@@BorrowService {OTHER} {IP-ENABLED} pre-valid: 169.254.42.228:8301@shanxi in 2, msg: tcp:ok+
+
+2023-07-30 18:37:22,221 INFO serviceName: DEFAULT_GROUP@@BorrowService {POS} {IP-ENABLED} valid: 169.254.42.228:8301@shanxi, region: unknown, msg: tcp:ok+
+
+2023-07-30 18:37:26,048 INFO DEFAULT_GROUP@@UserService {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [169.254.42.228:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 18:37:26,048 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@UserService, ips: 169.254.42.228:8101_true,
+
+2023-07-30 18:37:31,172 INFO DEFAULT_GROUP@@BookService {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [169.254.42.228:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 18:37:31,172 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@BookService, ips: 169.254.42.228:8201_true,
+
+2023-07-30 19:27:22,567 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@BorrowService, ips: 169.254.42.228:8301_true,
+
+2023-07-30 19:27:22,567 INFO DEFAULT_GROUP@@BookService {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [169.254.42.228:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 19:27:22,567 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@BookService, ips: 
+
+2023-07-30 19:27:22,575 INFO DEFAULT_GROUP@@UserService {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [169.254.42.228:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-30 19:27:22,575 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@UserService, ips: 
+
+2023-07-30 19:27:23,726 INFO serviceName: DEFAULT_GROUP@@BorrowService {OTHER} {IP-DISABLED} pre-invalid: 169.254.42.228:8301@shanxi in 1, msg: tcp:timeout
+
+2023-07-30 19:27:24,737 INFO serviceName: DEFAULT_GROUP@@BorrowService {OTHER} {IP-DISABLED} pre-invalid: 169.254.42.228:8301@shanxi in 2, msg: tcp:timeout
+
+2023-07-30 19:27:25,991 INFO serviceName: DEFAULT_GROUP@@BorrowService {POS} {IP-DISABLED} invalid: 169.254.42.228:8301@shanxi, region: unknown, msg: tcp:timeout
+
+2023-07-30 19:27:37,012 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+
